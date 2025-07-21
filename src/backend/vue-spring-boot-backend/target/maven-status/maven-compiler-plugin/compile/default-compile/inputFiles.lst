@@ -1,0 +1,10 @@
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/controller/UserController.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/entity/Micropost.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/config/JacksonConfig.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/repository/UserRepository.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/config/DataInitializer.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/repository/MicropostRepository.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/App.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/controller/MicropostController.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/dto/CreateMicropostRequest.java
+/home/ubuntu/repos/vue-spring-boot/src/backend/vue-spring-boot-backend/src/main/java/com/example/entity/User.java
